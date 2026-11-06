@@ -11,9 +11,9 @@
 
 ## 📌 Project & Certification Background
 
-This repository contains the complete portfolio of deliverables for the **SAP Professional Fundamentals (Course 1) Hands-on Project**, an intensive enterprise consulting assignment offered by **SAP** in collaboration with **Coursera**. 
+This repository contains the verified deliverables for the **SAP Professional Fundamentals (Course 1) Hands-on Project**, an enterprise consulting capstone offered by **SAP** in collaboration with **Coursera**. 
 
-The objective of this capstone assignment is to demonstrate practical, real-world SAP consulting competencies, enterprise architectural planning, and business acumen by examining a real-life global SAP digital transformation. The project deliverables are tailored directly to the client's executive leadership and simulate the kickoff of a major global enterprise engagement.
+The assignment demonstrates practical SAP consulting competencies, enterprise architectural planning, and business acumen by analyzing a real-life global digital transformation. The deliverables address the client’s executive leadership directly as "you" and simulate the initial kickoff of an enterprise modernization engagement.
 
 - **Author / Lead Consultant:** Muhammad Bilal Mirza ([@Mirza1358](https://github.com/Mirza1358))
 - **Program:** SAP Professional Fundamentals Specialization
@@ -28,7 +28,7 @@ The objective of this capstone assignment is to demonstrate practical, real-worl
 **Hitachi High-Tech Corporation** is a premier global enterprise headquartered in Tokyo, Japan, operating across 26+ countries in semiconductor manufacturing equipment (CD-SEMs, plasma etching tools), clinical diagnostic instrumentation, and advanced materials. 
 
 ### Core Transformation Challenge & Mandate
-Having relied on SAP R/3 and ECC since the late 1990s, the company accumulated approximately **9,000 custom-coded add-ons** over three decades. This technical debt caused severe architectural calcification, slow release cycles, siloed multi-country operations, and high total cost of ownership (TCO). 
+Having relied on legacy SAP ERP since the 1990s, the company accumulated approximately **9,000 custom-coded add-ons** over three decades. This technical debt caused severe architectural calcification, slow release cycles, fragmented multi-country operations, and high total cost of ownership (TCO). 
 
 ### Modern Cloud Solution Architecture
 - **SAP S/4HANA Cloud (Two-Tier Architecture):** Private Edition for headquarters and complex manufacturing plants; Public Edition for international sales and service subsidiaries.
@@ -38,25 +38,34 @@ Having relied on SAP R/3 and ECC since the late 1990s, the company accumulated a
 
 ---
 
-## 📂 Repository Deliverables & Structure
+## 📂 Streamlined Deliverables & Repository Structure
 
-This repository contains all executive-ready documents, presentation decks, and technical analysis deliverables:
+Each course deliverable is provided in its native editable format alongside an instant PDF preview:
 
 ```
 ├── README.md                                                     # Project overview and certification details
-├── Course_1_Case_Study_Assignment_Hitachi_High_Tech.docx         # Full Assignment Word Document (Tasks 1, 2, 3)
-├── Course_1_Case_Study_Assignment_Hitachi_High_Tech.md           # Markdown version of full assignment
-├── Course_1_Project_Submission_Deck_Hitachi_High_Tech.pptx       # 5-Slide Executive Summary Presentation Deck (16:9)
-├── Course_1_Executive_Summary_Deck_and_Precis.md                 # Markdown presentation deck & precis
-├── Course_1_Executive_Report_Precis.docx                         # 1-Page Executive Briefing Memorandum (Word)
-├── Course_1_Presentation_Recording_Script_and_Evaluation.md      # Customer presentation script & self-evaluation rubric
-└── .gitignore                                                    # Git ignore rules for office temp files
+│
+├── [Deliverable 1: Tasks 1, 2, 3]
+│   ├── Course_1_Case_Study_Assignment_Hitachi_High_Tech.docx     # Official Word Document Submission
+│   └── Course_1_Case_Study_Assignment_Hitachi_High_Tech.pdf      # Direct PDF Preview (Browser / Mobile)
+│
+├── [Deliverable 2: Task 4]
+│   ├── Course_1_Project_Submission_Deck_Hitachi_High_Tech.pptx   # 5-Slide Executive Summary Presentation Deck (16:9)
+│   └── Course_1_Project_Submission_Deck_Hitachi_High_Tech.pdf    # Direct PDF Preview (Browser / Mobile)
+│
+├── [Deliverable 3: Task 5]
+│   └── Course_1_Presentation_Recording_Script_and_Evaluation.md  # 3-4 Min Presentation Script & Self-Evaluation Rubric
+│
+└── .gitignore                                                    # Clean Git rules
 ```
 
-### Detailed Summary of Key Deliverables
+---
 
-#### 1. [Case Study Assignment Document](Course_1_Case_Study_Assignment_Hitachi_High_Tech.docx) (`.docx` & `.md`)
-- **Task 1: Case Study Selection & Verification:** Validates the enterprise against all 4 mandatory criteria (Industry Leader, Cloud Transformation, S/4HANA Cloud + SAC + BTP, and rich documented stakeholder metrics).
+### Detailed Deliverable Breakdown
+
+#### 1. Case Study Assignment Document (Tasks 1, 2, 3 — 17 Points)
+* 📄 **[View PDF Preview](Course_1_Case_Study_Assignment_Hitachi_High_Tech.pdf)** | 📥 **[Download Word Document](Course_1_Case_Study_Assignment_Hitachi_High_Tech.docx)**
+- **Task 1: Case Study Selection & Verification:** Validates the enterprise against all 4 mandatory criteria (Fortune Global 500 #133 Hitachi Ltd., cloud transformation, S/4HANA Cloud + SAC + BTP, and rich stakeholder metrics).
 - **Task 2: Customer and Industry Context:**
   - *Macro Trends:* Geopolitical semiconductor sovereignty (CHIPS Acts), AI sub-2nm precision demands, clinical lab automation, Clean Core cloud mandate, and Scope 3 ESG compliance.
   - *Strategic Motivations:* Overcoming 30 years of legacy technical debt and harmonizing 26 countries to power Equipment-as-a-Service and subscription models.
@@ -68,14 +77,13 @@ This repository contains all executive-ready documents, presentation decks, and 
   - *Team Architecture:* Justification for SAP Activate Project Manager, Technical/BTP Architect, SAC Data Specialist, OCM Lead, and Customer Business Process Owners (BPOs).
   - *Collaboration Model:* Structured delivery across the 6 phases of **SAP Activate** (Discover, Prepare, Explore, Realize, Deploy, Run), paired consultant-customer dynamics, a joint **Clean Core Governance Board (CCGB)**, and a clear RACI matrix.
 
-#### 2. [Executive Summary Presentation Deck](Course_1_Project_Submission_Deck_Hitachi_High_Tech.pptx) (`.pptx` & `.md`)
-- A professional 5-slide, 16:9 widescreen presentation deck designed for C-suite steering committees.
+#### 2. Executive Summary Presentation Deck (Task 4 — 6 Points)
+* 📊 **[View PDF Preview](Course_1_Project_Submission_Deck_Hitachi_High_Tech.pdf)** | 📥 **[Download PowerPoint Deck](Course_1_Project_Submission_Deck_Hitachi_High_Tech.pptx)**
+- Professional 5-slide, 16:9 widescreen presentation deck designed for C-suite steering committees.
 - Covers transformation vision, industry drivers, targeted business outcomes, team synergy, and the SAP Activate implementation roadmap.
 
-#### 3. [Executive Briefing Memorandum (Report Precis)](Course_1_Executive_Report_Precis.docx) (`.docx`)
-- A concise, high-impact 1-page executive summary memo (~350 words) providing senior leadership with immediate visibility into the engagement strategy.
-
-#### 4. [Presentation Recording Script & Self-Evaluation Guide](Course_1_Presentation_Recording_Script_and_Evaluation.md) (`.md`)
+#### 3. Presentation Script & Self-Evaluation Guide (Task 5 — 2 Points)
+* 📝 **[View Presentation Script & Evaluation](Course_1_Presentation_Recording_Script_and_Evaluation.md)**
 - Verbatim 3-to-4 minute timed presentation script (with timestamp markers 0:00 to 3:45, speaker cues, and slide transitions).
 - Complete 7-dimension self-evaluation rubric covering professional delivery, customer-centric tone, technical coverage, and next steps.
 
